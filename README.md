@@ -5,7 +5,7 @@ other useful sample data for our applications, tools and profiles.
 
 ### NOTICE
 
-© 2018 The MITRE Corporation.
+© 2019 The MITRE Corporation.
 
 Approved for Public Release; Distribution Unlimited. Case Number 18-3678.
 
